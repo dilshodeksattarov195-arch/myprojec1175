@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuync",
+        "uuid": 9846500,
+        "checksum": "9gvkqg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
